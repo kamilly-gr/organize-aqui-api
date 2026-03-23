@@ -28,9 +28,9 @@ app.get("/tarefas/:id", function(req, res){
     const tarefa = tarefas.find(a => a.id == id)
 
     if(!tarefa){
-        return res.json(tarefas)
-    }else{
         res.status(404).json("tarefa não encontrada! tente novamente.")
+    }else{
+        return res.json(tarefa)
     }
 
 
