@@ -30,13 +30,13 @@ Abra o navegador em : http://localhost:3000/tarefas
 <img width="731" height="543" alt="Captura de tela 2026-03-23 100158" src="https://github.com/user-attachments/assets/9352e398-6288-4fc2-8cae-31991dc55e56" />
 
 ## Busca geral das tarefas
-<img width="719" height="517" alt="Captura de tela 2026-03-23 100146" src="https://github.com/user-attachments/assets/943cd2da-3a3e-4947-8755-08204b28bbba" />
+<img width="719" height="619" alt="image" src="https://github.com/user-attachments/assets/d1bef637-df19-41bb-ba2a-02f4e22f6cb2" />
 
 ## Busca pelo ID
 <img width="721" height="472" alt="image" src="https://github.com/user-attachments/assets/a80a8cd7-9f13-4576-9c31-3049d3f42153" />
 
 ## Edição de uma tarefa
-<img width="719" height="650" alt="image" src="https://github.com/user-attachments/assets/85c3731e-e747-463f-91fb-1f208c809e4e" />
+<img width="719" height="659" alt="image" src="https://github.com/user-attachments/assets/4a82ec35-d95c-4e03-8b28-9fa1c4e729b3" />
 
 ## Deletar uma tarefa
 <img width="721" height="435" alt="Captura de tela 2026-03-23 101728" src="https://github.com/user-attachments/assets/6f553d5a-fe2b-4184-90ab-aa58513483b7" />
