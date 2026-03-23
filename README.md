@@ -1,9 +1,9 @@
 # Organize aqui API 🗂️
- API RESET simples desenvolvida com **Node.js** e com o Fraework **EXPRESS**, 
- permitindo realizar tarefas simples de CRUD utilizando armazenamento em memória (array)
+ API RESET simples desenvolvida com **Node.js** e **EXPRESS**, 
+ permitindo gerenciar tarefas (CRUD) utilizando arry em mémoria. a aplicação tem validações e controle de estatus, além de retornar códigos HTTP para cada requisição!
 
  ## O que é possível fazer?
- É possível criar, deletar e buscar tarefas, filtrando pelo ID
+ É possível criar, deletar, atualizar e buscar tarefas. Filtrando todos pelo ID da tarefa
  
  ## O que foi utilizado?
  - Node.js
@@ -15,13 +15,12 @@
 Abra o navegador em : http://localhost:3000/tarefas
 
 
-# EndPoits da API
-### tarefas 📗
+# EndPoits da API 📗
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
 | GET | /tarefas | Lista todos as tarefas |
 | GET | /tarefas/:id | Busca de uma tarefa pelo seu ID |
-| POST | /tarefas | Cria um Novo filme |
+| POST | /tarefas | Cria uma nova tarefa |
 | PUT | /tarefas/:id | Atualiza uma tarefa pelo seu ID|
 | DELETE | /tarefas/:id | Deleta uma tarefa pelo seu ID |
 
